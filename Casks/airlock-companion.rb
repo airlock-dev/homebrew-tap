@@ -1,6 +1,6 @@
 cask "airlock-companion" do
-  version "0.2.15"
-  sha256 "d561f3d4b11740db85e4b59e96ab05dd5ed33916ac8ec7e72843b9840803b023"
+  version "0.2.16"
+  sha256 "0ccc29b568885006cee8b44516e39e4bceb1820e1867ff97e337d085e26adc7a"
 
   url "https://github.com/airlock-dev/airlock/releases/download/companion-v#{version}/AirlockCompanion.zip",
       verified: "github.com/airlock-dev/airlock/"
